@@ -3,7 +3,8 @@ package Arrays;
 public class EquilibriumIndex {
     public static void  equilibriumIndex(int arr[],int n){
         int ps[]=new int[n];
-        ps[0]=arr[0];int leftSum=0;int rightSum=0;int count=0;
+        ps[0]=arr[0];
+        int leftSum=0;int rightSum=0;int count=0;
         for(int i=0;i<=n-1;i++){
             if(i==0){
                 leftSum=0;
