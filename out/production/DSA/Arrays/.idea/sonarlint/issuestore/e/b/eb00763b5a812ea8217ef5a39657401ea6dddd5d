@@ -1,0 +1,11 @@
+
+Ã
+java:S1598" This file "StackExaple.java" should be located in "Arrays\Collections\Stacks" directory, not in "C:\Users\vasal\Downloads\movie-service\DSA\Collections\Stacks".(œ¶®áÿÿÿÿÿ8Ëñ•µ÷1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œ¶®áÿÿÿÿÿ8Ðñ•µ÷1
+r
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ó”„¨úÿÿÿÿ8ãñ•µ÷1
+r
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ó”„¨úÿÿÿÿ8ãñ•µ÷1
+m
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(áÍÀî8ãñ•µ÷1
+L	java:S106"+Replace this use of System.out by a logger.(„Ò‹üùÿÿÿÿ8ìñ•µ÷1

@@ -1,0 +1,15 @@
+
+•
+java:S1598"This file "EquilibriumIndex.java" should be located in "Arrays" directory, not in "C:\Users\vasal\Downloads\movie-service\DSA".(ý“ô©
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ý“ô©
+@
+java:S1197"*Move the array designators [] to the type.(ÑÂÈ 
+Z
+java:S1659"EDeclare "rightSum" and all following declarations on a separate line.(ÒÊ€
+@
+java:S1197"*Move the array designators [] to the type.(ÛÏÎë
+E	java:S106"+Replace this use of System.out by a logger.(Ž³ð¸ûÿÿÿÿ
+E
+java:S1197"*Move the array designators [] to the type.(¡þÏÖøÿÿÿÿ
+@
+java:S1197"*Move the array designators [] to the type.(Ä¼ÑÏ

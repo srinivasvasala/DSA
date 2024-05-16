@@ -1,0 +1,12 @@
+
+
+java:S1319"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(Ôá–³8ıšğæ÷1
+€
+java:S1319"cThe type of "ll" should be an interface such as "List" rather than the implementation "LinkedList".(Ôá–³8şšğæ÷1
+Ñ
+java:S1598"®This file "LinkedListExample.java" should be located in "Arrays\Collections\LinkedList" directory, not in "C:\Users\vasal\Downloads\movie-service\DSA\Collections\LinkedList".(ƒåÌŒıÿÿÿÿ8€›ğæ÷1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ƒåÌŒıÿÿÿÿ8›ğæ÷1
+G	java:S106"+Replace this use of System.out by a logger.(ğº»Ş8›ğæ÷1
+L	java:S106"+Replace this use of System.out by a logger.(¸à«ëıÿÿÿÿ8Ÿ›ğæ÷1
+G	java:S106"+Replace this use of System.out by a logger.(ğº»Ş8£›ğæ÷1
+G	java:S106"+Replace this use of System.out by a logger.(ğº»Ş8‰­ôæ÷1

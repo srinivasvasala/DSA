@@ -1,0 +1,21 @@
+
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(†¿§Ú
+´
+java:S1598"This file "Vectors.java" should be located in "Arrays\Collections\Vectors" directory, not in "C:\Users\vasal\Downloads\movie-service\DSA\Collections\Vectors".(‡â4
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡â4
+€
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".( ­š¸ıÿÿÿÿ
+€
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".( ­š¸ıÿÿÿÿ
+€
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(»ÄÖ ıÿÿÿÿ
+{
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(†¿§Ú
+?	java:S106"+Replace this use of System.out by a logger.(ÄÆäv
+@	java:S106"+Replace this use of System.out by a logger.(å«Ğƒ
+E	java:S106"+Replace this use of System.out by a logger.(²†Ûüÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(»àòùÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(şÊŸ¹
+E	java:S106"+Replace this use of System.out by a logger.(ÃÄûşúÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(¦ÛÚ¨

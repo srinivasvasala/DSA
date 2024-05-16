@@ -1,0 +1,10 @@
+
+‹
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(À—åÞüÿÿÿÿ
+}
+java:S1319"bThe type of "al" should be an interface such as "List" rather than the implementation "ArrayList".(À—åÞüÿÿÿÿ
+È
+java:S1598"¬This file "ArrayListExamples.java" should be located in "Arrays\Collections\ArrayList" directory, not in "C:\Users\vasal\Downloads\movie-service\DSA\Collections\ArrayList".(ß”Œ´ýÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ß”Œ´ýÿÿÿÿ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À—åÞüÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(áÐÝî
